@@ -1,0 +1,4 @@
+task,model,primary_metric,primary_score,rank,selected
+classification,[MODEL],[METRIC],[SCORE],[RANK],[YES/NO]
+regression,[MODEL],[METRIC],[SCORE],[RANK],[YES/NO]
+clustering,[MODEL],[METRIC],[SCORE],[RANK],[YES/NO]

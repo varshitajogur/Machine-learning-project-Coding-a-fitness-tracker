@@ -1,0 +1,5 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,roc_auc,split_strategy
+Baseline,[RUN],[RUN],[RUN],[RUN],[RUN],[ENTER]
+LogisticRegression,[RUN],[RUN],[RUN],[RUN],[RUN],[ENTER]
+RandomForest,[RUN],[RUN],[RUN],[RUN],[RUN],[ENTER]
+Other,[RUN],[RUN],[RUN],[RUN],[RUN],[ENTER]
